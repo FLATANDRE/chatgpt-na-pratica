@@ -1,0 +1,23 @@
+Desenvolva um dashboard em HTML para análise demográfica regional do Brasil.
+
+ESPECIFICAÇÕES DO DASHBOARD:
+
+1. LAYOUT PRINCIPAL:
+   - Defina uma estrutura de grid responsiva  para a seção Corpo (sugestão: 4 colunas)
+   - Organize em 3 seções: Cabeçalho, Corpo, Rodapé
+
+2. COMPONENTES OBRIGATÓRIOS:
+   Seção Cabeçalho - com o título Dashboard Comparativo
+
+ Seção Corpo - Inserir as 4 imagens, uma em cada coluna do layout
+
+SEção Rodapé - Inserir o texto Desenvolvido por Sistema A.C.M.E.
+   
+
+3. INTERATIVIDADE:
+- Filtros de região
+- Quando clicar nas imagens eles deverão ampliar de tamanho. Tipo o efeito lightbox.
+   
+4. PALETA DE CORES:
+   - Use cores representativas das regiões brasileiras
+   - Mantenha consistência visual
