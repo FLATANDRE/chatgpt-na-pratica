@@ -1,0 +1,28 @@
+Agora preciso criar visualizações impactantes para apresentar os dados demográficos das regiões brasileiras. 
+
+SOLICITO:
+
+1. GRÁFICO DE BARRAS COMPARATIVO:
+   - População por região com códigos de cores distintas
+   - Inclua valores absolutos e percentuais
+   - Título: "Distribuição Populacional por Região do Brasil (2024)"
+
+2. GRÁFICO DE DISPERSÃO:
+   - Eixo X: PIB per capita
+   - Eixo Y: Densidade demográfica
+   - Cada ponto representa uma região
+   - Inclua linhas de tendência se relevante
+
+3. GRÁFICO DE RADAR/SPIDER:
+   - Variáveis: Taxa de crescimento, Taxa de urbanização, Idade mediana (normalizada)
+   - Compare as 5 regiões simultaneamente
+   - Use escala percentílica para padronizar
+
+4. MAPA DE CALOR CONCEITUAL:
+   - Matriz região x indicador
+   - Cores representando intensidade (verde = alto, vermelho = baixo)
+   - Indicadores: População, PIB per capita, Densidade, Crescimento
+
+
+- Para cada gráfico gere uma breve explicação do significado do gráfico.
+- Gere as imagens dos gráficos em formato PNG e disponibilize para download
